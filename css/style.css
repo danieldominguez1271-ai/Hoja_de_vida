@@ -15,4 +15,14 @@ h1{
 #perfil{
     background-color: rgb(189, 116, 114);
 }
-        
+h1{
+    color:blue;
+    font-size: 28px;
+}      
+h3{
+    font-size: 20px;
+}
+
+p{
+    line-height: 1.6;
+}
