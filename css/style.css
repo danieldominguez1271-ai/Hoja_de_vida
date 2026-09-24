@@ -26,3 +26,15 @@ h3{
 p{
     line-height: 1.6;
 }
+
+header{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+header h1{
+    color: aliceblue;
+}
+header h2{
+    color: aliceblue;
+}
